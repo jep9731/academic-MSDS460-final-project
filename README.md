@@ -1,2 +1,2 @@
-# academic-MSDS460-final-project
+# MSDS460 Final Project
 This repository will contain Python and R code used for the final project for the NU SPS MSDS 460 course titled "Decision Anayltics".
