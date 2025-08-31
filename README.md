@@ -29,7 +29,7 @@ We aim to schedule **24 participants** for three different imaging modalities wi
   - Available **Monday–Friday**, 08:30–16:30
 - **PET Facility**:  
   - 2 sessions/day  
-  - Available **Tuesday–Friday** at:
+  - Available **Tuesday–Thursdays** at:
     - 4:30 PM – 5:00 PM
     - 5:00 PM – 5:30 PM
 
