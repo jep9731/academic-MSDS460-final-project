@@ -49,7 +49,8 @@ We aim to schedule **24 participants** for three different imaging modalities wi
 - $x_{p,d,t,s} \in \{0,1\}$: 1 if patient $p$ has scan $s$ on day $d$ at time $t$  
 - $y_{p,d} \in \{0,1\}$: 1 if patient $p$ has any scan on day $d$
 
-**Objective**  
+**Objective**
+
 $$
 \min \sum_p \sum_d y_{p,d}
 $$
