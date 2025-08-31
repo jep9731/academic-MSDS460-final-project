@@ -6,7 +6,7 @@ This project develops a **Mixed-Integer Linear Programming (MILP)** model to opt
 - **Amyloid PET** scans
 - **Tau PET** scans
 
-The model minimizes the **total number of distinct visit days per patient**, subject to scanner availability, biological safety constraints, and patient availability.
+The model minimizes the **total number of distinct visit days per patient**, subject to scanner availability, clinical constraints, and biological safety constraints.
 
 ---
 
