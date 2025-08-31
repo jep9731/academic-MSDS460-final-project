@@ -14,8 +14,7 @@ The model minimizes the **total number of distinct visit days per patient**, sub
 
 The `Pasaye_Final Project.ipynb` contains the first simulated a patient list, scanner availability, scan time slots, and capacity for each facility.
 Additionally, the Jupyter Notebook details the decision variables, constraints, objective function, and finds an optimal solution using `PuLP`.
-Lastly, after the solution has been determined, a Gantt visualization, highlighting the patient schedule of the model, a scan utilization plot, determining how much each facility was used during in the model,
-and a daily usage plot, illustrates the number of days each facility was used in the model.
+Lastly, after the solution has been determined, a Gantt visualization, highlighting the patient schedule of the model, a scan utilization plot, determining how much each facility was used during in the model, and a daily usage plot, illustrates the number of days each facility was used in the model.
 
 ---
 
