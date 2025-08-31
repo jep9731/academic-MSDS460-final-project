@@ -53,6 +53,7 @@ We aim to schedule **24 participants** for three different imaging modalities wi
 $$
 \min \sum_p \sum_d y_{p,d}
 $$
+
 Minimize the total number of distinct scan days.
 
 **Key Constraints**
