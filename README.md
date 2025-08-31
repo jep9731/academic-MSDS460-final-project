@@ -26,7 +26,7 @@ We aim to schedule **24 participants** for three different imaging modalities wi
 ## 🏥 Facility Constraints
 - **MRI Facility**:  
   - 90-minute sessions  
-  - Available **Monday–Friday**, 08:30–16:30
+  - Available **Monday–Friday**, 8:30 AM – 4:30 PM
 - **PET Facility**:  
   - 2 sessions/day  
   - Available **Tuesday–Thursdays** at:
