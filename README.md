@@ -46,17 +46,17 @@ We aim to schedule **24 participants** for three different imaging modalities wi
 ## 🔢 Model Formulation
 
 **Decision Variables**  
-- \( x_{p,d,t,s} \in \{0,1\} \): 1 if patient \( p \) has scan \( s \) on day \( d \) at time \( t \)  
-- \( y_{p,d} \in \{0,1\} \): 1 if patient \( p \) has any scan on day \( d \)
+- $x_{p,d,t,s} \in \{0,1\}$: 1 if patient $p$ has scan $s$ on day $d$ at time $t$  
+- $y_{p,d} \in \{0,1\}$: 1 if patient $p$ has any scan on day $d$
 
 **Objective**  
-\[
+$$
 \min \sum_p \sum_d y_{p,d}
-\]
+$$
 Minimize the total number of distinct scan days.
 
 **Key Constraints**
-1. **Linking Constraint**: If any scan is assigned on day \( d \), then \( y_{p,d} = 1 \)
+1. **Linking Constraint**: If any scan is assigned on day $d$, then $y_{p,d} = 1$
 2. **One Scan per Type per Patient**
 3. **Facility Capacity Constraints**
 4. **Biological Constraints** (PET spacing)
