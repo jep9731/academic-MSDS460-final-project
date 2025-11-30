@@ -76,5 +76,3 @@ Minimize the total number of distinct scan days.
   - Gantt chart of scan schedules
   - Resource utilization line chart
   - Daily scan usage bar chart
-
----
